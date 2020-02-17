@@ -1,0 +1,7 @@
+
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8¶÷….
+qsquid:UselessImportCheck"FRemove this unused import 'android.content.ActivityNotFoundException'.(Û‚¨8Å„….
+dsquid:UselessImportCheck"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8ıÓ”….
+Esquid:S1659""Declare "btn2" on a separate line.(ÏíÅ”ùÿÿÿÿ8üÊø….
+gsquid:UselessImportCheck"<Remove this unused import 'androidx.annotation.RequiresApi'.(å„» 8¬®ş….
+Msquid:S1066L"/Merge this if statement with the enclosing one.(±ò›­8„ƒŸ….
